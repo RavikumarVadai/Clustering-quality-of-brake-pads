@@ -1,1 +1,7 @@
-# Clustering-quality-of-brake-pads
+# Introduction: 
+  This project describes an effort aimed at developing nondestructive inspection methods for evaluating the condition and quality of brake lining.A brake lining is a composite friction material bonded to the steel brake shoes or pads. Inspection of brake lining materials poses a particular challenge, since the materials are often non-homogeneous and anisotropic. One of the oldest and widely used
+NDT methods is the coin tap test. It requires an operator to tap with a coin-like light tool on each point of the structure to be inspected, feeling the subtle difference of impact force and hearing the resulting sound to discriminate defective objects from normal ones. Areas of nondelaminated structure will create a clear ringing sound upon impact while regions of delaminated, disbonded,or softened concrete will create a dull or hollow sound
+# Methodology
+  The experimental process developed for this research consisted of three main stages. The ﬁrst stage involved tapping the brake liner with an hammer and recording the acoustic sound signals captured by a microphone. The second stage consisted of taking the time based tap signals and reduce noise from it(not available in this project. Please refer my previous project "Prediction of brake liner" for more on this).The third stage is to employ signal processing technique on the reﬁned signal.
+# Objective
+  The objective of this project is to identify characteristic patterns of each of the acoustic signals which describes the integrity of the structure. By observing the clusters of the  frequency spectrum pattern of impact acoustic signal, brake liners quality can be identified and seperated.
